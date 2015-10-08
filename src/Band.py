@@ -1,6 +1,6 @@
 import numpy as np
 
-from spyctrum.objects import Scan
+from Scan import Scan
 
 
 class Band:
